@@ -1,2 +1,2 @@
-# spotify-api
-project to practice my python skills and get moer experience with apis (using my fav music app!)
+# music recs app
+project to practice my python skills and get more experience with apis (using my fav music app spotify!)
